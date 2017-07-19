@@ -16,12 +16,18 @@ To install Python, I just install Anaconda [here](https://www.continuum.io/downl
 
 Unpack it:
 
-`tar zxvf pymunk-4.0.0.tar.gz`
+-`tar zxvf pymunk-4.0.0.tar.gz`
 then
-`cd pymunk-pymunk-4.0.0`
+-`cd pymunk-pymunk-4.0.0`
 install pymunk
-`python setup.py install`
+-`python setup.py install`
 
+* Install tensorflow
+- `pip install tensorflow`
+if you want to use GPU-version, check this [page](https://www.tensorflow.org/install/install_linux)
+
+* Install Keras
+- `pip install keras`
 
 Basic Usage
 ===========
