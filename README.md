@@ -1,5 +1,18 @@
 # Multi-Agent_SelfDriving
 
+This is a ongoing project.
+
+Currently, This code support DDPG not MADDPG.
+
+You can run ddpg merge scenario simulator using ddvg_v3.py.
+
+and This repository requires many refinement and code refactoring.
+
+I will try to update this repository as soon as possible.
+
+Thanks.
+
+
 Overview
 ============
 A project that trains a multi-agent to simulate double merge scenario.
@@ -32,4 +45,3 @@ install pymunk
 Basic Usage
 ===========
 *To be Continue
-
